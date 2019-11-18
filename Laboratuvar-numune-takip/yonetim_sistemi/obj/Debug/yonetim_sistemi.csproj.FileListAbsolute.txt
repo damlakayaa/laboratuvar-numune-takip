@@ -1,0 +1,278 @@
+C:\Users\LENOVO\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\bin\Debug\yonetim_sistemi.exe.config
+C:\Users\LENOVO\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\bin\Debug\yonetim_sistemi.exe
+C:\Users\LENOVO\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\bin\Debug\yonetim_sistemi.pdb
+C:\Users\LENOVO\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.login.resources
+C:\Users\LENOVO\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.exe
+C:\Users\LENOVO\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.pdb
+C:\Users\LENOVO\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.anaSayfa.resources
+C:\Users\LENOVO\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.yeniDuyuru.resources
+C:\Users\LENOVO\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.SatisPaneli.satisSecim.resources
+C:\Users\LENOVO\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.SatisPaneli.ptcsatisModulu.resources
+C:\Users\LENOVO\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.ezharsatisModulu.resources
+C:\Users\LENOVO\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\Interop.LCC11.dll
+C:\Users\LENOVO\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.csproj.ResolveComReference.cache
+C:\Users\LENOVO\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\Interop.otkloadr.dll
+C:\Users\LENOVO\Desktop\Yeni klasör\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\bin\Debug\yonetim_sistemi.exe.config
+C:\Users\LENOVO\Desktop\Yeni klasör\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\bin\Debug\yonetim_sistemi.exe
+C:\Users\LENOVO\Desktop\Yeni klasör\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\bin\Debug\yonetim_sistemi.pdb
+C:\Users\LENOVO\Desktop\Yeni klasör\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Yeni klasör\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\Interop.LCC11.dll
+C:\Users\LENOVO\Desktop\Yeni klasör\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\Interop.otkloadr.dll
+C:\Users\LENOVO\Desktop\Yeni klasör\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.csproj.ResolveComReference.cache
+C:\Users\LENOVO\Desktop\Yeni klasör\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.anaSayfa.resources
+C:\Users\LENOVO\Desktop\Yeni klasör\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.login.resources
+C:\Users\LENOVO\Desktop\Yeni klasör\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Yeni klasör\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.ezharsatisModulu.resources
+C:\Users\LENOVO\Desktop\Yeni klasör\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.SatisPaneli.ptcsatisModulu.resources
+C:\Users\LENOVO\Desktop\Yeni klasör\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.SatisPaneli.satisSecim.resources
+C:\Users\LENOVO\Desktop\Yeni klasör\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.yeniDuyuru.resources
+C:\Users\LENOVO\Desktop\Yeni klasör\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.yeniNot.resources
+C:\Users\LENOVO\Desktop\Yeni klasör\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\Yeni klasör\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Yeni klasör\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.exe
+C:\Users\LENOVO\Desktop\Yeni klasör\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.pdb
+C:\Users\LENOVO\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.yardim.resources
+C:\Users\LENOVO\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.BelgelendirmeAnaSayfa.resources
+C:\Users\LENOVO\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.dovizKurlari.resources
+C:\Users\LENOVO\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.KaliteModulu.Kalite.resources
+C:\Users\LENOVO\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.LaboratuvarModulu.laboratuvarAnaSayfa.resources
+C:\Users\LENOVO\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.LaboratuvarModulu.musteriTakip.resources
+C:\Users\LENOVO\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.LaboratuvarModulu.numuneKayit.resources
+C:\Users\LENOVO\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.LaboratuvarModulu.kalibrasyonForm.resources
+C:\Users\LENOVO\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.LaboratuvarModulu.ortamKosullari.resources
+C:\Users\LENOVO\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\LENOVO\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\LENOVO\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\LENOVO\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\LENOVO\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.KaliteModulu.genelForm.resources
+C:\Users\LENOVO\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.YoneticiModulu.yoneticiPaneli.resources
+C:\Users\LENOVO\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.YoneticiModulu.yeniKullaniciKayit.resources
+C:\Users\LENOVO\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.LaboratuvarModulu.numuneTakip.resources
+C:\Users\LENOVO\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.LaboratuvarModulu.onay_bekleyen_testler.resources
+C:\Users\LENOVO\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.LaboratuvarModulu.devam_eden_testler.resources
+C:\Users\LENOVO\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.LaboratuvarModulu.testi_bitenler.resources
+C:\Users\LENOVO\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.LaboratuvarModulu.test_baslangic_tarihi.resources
+C:\Users\LENOVO\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.LaboratuvarModulu.test_bitis_tarihi.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\bin\Debug\yonetim_sistemi.exe.config
+C:\Users\Ufuk ALKAN\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\bin\Debug\yonetim_sistemi.exe.manifest
+C:\Users\Ufuk ALKAN\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\bin\Debug\yonetim_sistemi.application
+C:\Users\Ufuk ALKAN\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\bin\Debug\yonetim_sistemi.exe
+C:\Users\Ufuk ALKAN\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\bin\Debug\yonetim_sistemi.pdb
+C:\Users\Ufuk ALKAN\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Ufuk ALKAN\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Ufuk ALKAN\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.csprojResolveAssemblyReference.cache
+C:\Users\Ufuk ALKAN\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Ufuk ALKAN\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\Interop.LCC11.dll
+C:\Users\Ufuk ALKAN\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\Interop.otkloadr.dll
+C:\Users\Ufuk ALKAN\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Ufuk ALKAN\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.csproj.ResolveComReference.cache
+C:\Users\Ufuk ALKAN\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.anaSayfa.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.BelgelendirmeAnaSayfa.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.dovizKurlari.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.KaliteModulu.genelForm.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.KaliteModulu.Kalite.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.KaliteModulu.yeni_sistem_ekle.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.LaboratuvarModulu.devam_eden_testler.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.LaboratuvarModulu.kalibrasyonForm.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.LaboratuvarModulu.laboratuvarAnaSayfa.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.LaboratuvarModulu.musteriTakip.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.LaboratuvarModulu.numuneKayit.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.LaboratuvarModulu.numuneTakip.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.LaboratuvarModulu.onay_bekleyen_testler.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.LaboratuvarModulu.ortamKosullari.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.LaboratuvarModulu.testi_bitenler.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.LaboratuvarModulu.test_baslangic_tarihi.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.LaboratuvarModulu.test_bitis_tarihi.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.login.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.Properties.Resources.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.ezharsatisModulu.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.SatisPaneli.ptcsatisModulu.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.SatisPaneli.satisSecim.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.yardim.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.yeniDuyuru.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.yeniNot.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.YoneticiModulu.yeniKullaniciKayit.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.YoneticiModulu.yoneticiPaneli.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.csproj.GenerateResource.cache
+C:\Users\Ufuk ALKAN\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.csproj.CoreCompileInputs.cache
+C:\Users\Ufuk ALKAN\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.exe.manifest
+C:\Users\Ufuk ALKAN\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.application
+C:\Users\Ufuk ALKAN\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.exe
+C:\Users\Ufuk ALKAN\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.pdb
+C:\Users\LENOVO\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\bin\Debug\yonetim_sistemi.exe.manifest
+C:\Users\LENOVO\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\bin\Debug\yonetim_sistemi.application
+C:\Users\LENOVO\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.KaliteModulu.yeni_sistem_ekle.resources
+C:\Users\LENOVO\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.exe.manifest
+C:\Users\LENOVO\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.application
+C:\Users\LENOVO\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.KaliteModulu.sistemsil.resources
+C:\Users\LENOVO\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.LaboratuvarModulu.detayNumune.resources
+C:\Users\LENOVO\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.notdetay.resources
+C:\Users\LENOVO\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.yeniNot.resources
+C:\Users\LENOVO\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.BelgelendirmeModulu.IrakBelgesi.BelgeDetay.resources
+C:\Users\LENOVO\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.BelgelendirmeModulu.IrakBelgesi.BelgeTakip.resources
+C:\Users\LENOVO\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.BelgelendirmeModulu.IrakBelgesi.YeniBelgeKayit.resources
+C:\Users\LENOVO\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.BelgelendirmeModulu.IrakBelgesi.SertifikaNo.resources
+C:\Users\LENOVO\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.BelgelendirmeModulu.yeniBirTakip.resources
+C:\Users\LENOVO\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.izinler.resources
+C:\Users\LENOVO\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.yeni_izin.resources
+C:\Users\LENOVO\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.izinpanel.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.BelgelendirmeModulu.IrakBelgesi.BelgeDetay.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.BelgelendirmeModulu.IrakBelgesi.BelgeTakip.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.BelgelendirmeModulu.IrakBelgesi.YeniBelgeKayit.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.BelgelendirmeModulu.IrakBelgesi.SertifikaNo.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.BelgelendirmeModulu.yeniBirTakip.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.izinler.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.izinpanel.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.KaliteModulu.sistemsil.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.LaboratuvarModulu.detayNumune.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.notdetay.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.yeni_izin.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\bin\Debug\SimpleDataGridViewPaging.dll
+C:\Users\Ufuk ALKAN\Desktop\Yönetim Sistemi\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.csproj.CopyComplete
+C:\Users\Ufuk ALKAN\Desktop\Yönetim SistemiSON\yonetim_sistemi\yonetim_sistemi\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Ufuk ALKAN\Desktop\Yönetim SistemiSON\yonetim_sistemi\yonetim_sistemi\obj\Debug\Interop.LCC11.dll
+C:\Users\Ufuk ALKAN\Desktop\Yönetim SistemiSON\yonetim_sistemi\yonetim_sistemi\obj\Debug\Interop.otkloadr.dll
+C:\Users\Ufuk ALKAN\Desktop\Yönetim SistemiSON\yonetim_sistemi\yonetim_sistemi\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Ufuk ALKAN\Desktop\Yönetim SistemiSON\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.csproj.ResolveComReference.cache
+C:\Users\Ufuk ALKAN\Desktop\Yönetim SistemiSON\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.anaSayfa.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim SistemiSON\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.BelgelendirmeAnaSayfa.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim SistemiSON\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.BelgelendirmeModulu.IrakBelgesi.BelgeDetay.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim SistemiSON\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.BelgelendirmeModulu.IrakBelgesi.BelgeTakip.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim SistemiSON\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.BelgelendirmeModulu.IrakBelgesi.YeniBelgeKayit.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim SistemiSON\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.BelgelendirmeModulu.IrakBelgesi.SertifikaNo.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim SistemiSON\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.BelgelendirmeModulu.yeniBirTakip.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim SistemiSON\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.dovizKurlari.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim SistemiSON\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.izinler.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim SistemiSON\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.KaliteModulu.genelForm.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim SistemiSON\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.KaliteModulu.Kalite.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim SistemiSON\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.KaliteModulu.sistemsil.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim SistemiSON\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.KaliteModulu.yeni_sistem_ekle.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim SistemiSON\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.LaboratuvarModulu.detayNumune.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim SistemiSON\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.LaboratuvarModulu.devam_eden_testler.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim SistemiSON\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.LaboratuvarModulu.kalibrasyonForm.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim SistemiSON\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.LaboratuvarModulu.laboratuvarAnaSayfa.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim SistemiSON\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.LaboratuvarModulu.musteriTakip.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim SistemiSON\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.LaboratuvarModulu.numuneKayit.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim SistemiSON\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.LaboratuvarModulu.numuneTakip.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim SistemiSON\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.LaboratuvarModulu.onay_bekleyen_testler.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim SistemiSON\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.LaboratuvarModulu.ortamKosullari.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim SistemiSON\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.LaboratuvarModulu.testi_bitenler.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim SistemiSON\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.LaboratuvarModulu.test_baslangic_tarihi.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim SistemiSON\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.LaboratuvarModulu.test_bitis_tarihi.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim SistemiSON\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.login.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim SistemiSON\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.notdetay.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim SistemiSON\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.Properties.Resources.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim SistemiSON\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.ezharsatisModulu.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim SistemiSON\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.SatisPaneli.ptcsatisModulu.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim SistemiSON\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.SatisPaneli.satisSecim.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim SistemiSON\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.yardim.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim SistemiSON\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.yeniDuyuru.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim SistemiSON\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.yeniNot.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim SistemiSON\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.yeni_izin.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim SistemiSON\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.YoneticiModulu.yeniKullaniciKayit.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim SistemiSON\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.YoneticiModulu.yoneticiPaneli.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim SistemiSON\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.csproj.GenerateResource.cache
+C:\Users\Ufuk ALKAN\Desktop\Yönetim SistemiSON\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.csproj.CoreCompileInputs.cache
+C:\Users\Ufuk ALKAN\Desktop\Yönetim SistemiSON\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.exe
+C:\Users\Ufuk ALKAN\Desktop\Yönetim SistemiSON\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.pdb
+C:\Users\Ufuk ALKAN\Desktop\Yönetim SistemiSON\yonetim_sistemi\yonetim_sistemi\bin\Debug\yonetim_sistemi.exe.config
+C:\Users\Ufuk ALKAN\Desktop\Yönetim SistemiSON\yonetim_sistemi\yonetim_sistemi\bin\Debug\yonetim_sistemi.exe.manifest
+C:\Users\Ufuk ALKAN\Desktop\Yönetim SistemiSON\yonetim_sistemi\yonetim_sistemi\bin\Debug\yonetim_sistemi.application
+C:\Users\Ufuk ALKAN\Desktop\Yönetim SistemiSON\yonetim_sistemi\yonetim_sistemi\bin\Debug\yonetim_sistemi.exe
+C:\Users\Ufuk ALKAN\Desktop\Yönetim SistemiSON\yonetim_sistemi\yonetim_sistemi\bin\Debug\yonetim_sistemi.pdb
+C:\Users\Ufuk ALKAN\Desktop\Yönetim SistemiSON\yonetim_sistemi\yonetim_sistemi\bin\Debug\SimpleDataGridViewPaging.dll
+C:\Users\Ufuk ALKAN\Desktop\Yönetim SistemiSON\yonetim_sistemi\yonetim_sistemi\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Ufuk ALKAN\Desktop\Yönetim SistemiSON\yonetim_sistemi\yonetim_sistemi\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Ufuk ALKAN\Desktop\Yönetim SistemiSON\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.exe.manifest
+C:\Users\Ufuk ALKAN\Desktop\Yönetim SistemiSON\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.application
+C:\Users\Ufuk ALKAN\Desktop\Yönetim SistemiSON\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.csproj.CopyComplete
+C:\Users\Ufuk ALKAN\Desktop\Yönetim SistemiSON\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.duyurulardetayi.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim SistemiSON\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.onayBekleyenIzinler.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim SistemiSON\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.izinpanel.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim SistemiSON\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.tumIzinler.resources
+C:\Users\Ufuk ALKAN\Desktop\Yönetim SistemiSON\yonetim_sistemi\yonetim_sistemi\bin\Debug\PagedList.dll
+C:\Users\Ufuk ALKAN\Desktop\Yönetim SistemiSON\yonetim_sistemi\yonetim_sistemi\bin\Debug\PagedList.xml
+C:\Users\Ufuk ALKAN\Desktop\Yönetim SistemiSON\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.csprojResolveAssemblyReference.cache
+C:\Users\Ufuk ALKAN\Desktop\Yönetim SistemiSON\yonetim_sistemi\yonetim_sistemi\obj\Debug\yonetim_sistemi.KaliteModulu.klasor_ekle.resources
+C:\Users\Damla\Desktop\TEZ\yonetim_sistemi(Son revize)19.02.2019\yonetim_sistemi\obj\Debug\yonetim_sistemi.csprojAssemblyReference.cache
+C:\Users\Damla\Desktop\TEZ\yonetim_sistemi(Son revize)19.02.2019\yonetim_sistemi\obj\Debug\yonetim_sistemi.exe
+C:\Users\Damla\Desktop\TEZ\yonetim_sistemi(Son revize)19.02.2019\yonetim_sistemi\obj\Debug\yonetim_sistemi.pdb
+C:\Users\Damla\Desktop\TEZ\yonetim_sistemi(Son revize)19.02.2019\yonetim_sistemi\bin\Debug\yonetim_sistemi.exe.config
+C:\Users\Damla\Desktop\TEZ\yonetim_sistemi(Son revize)19.02.2019\yonetim_sistemi\bin\Debug\yonetim_sistemi.exe.manifest
+C:\Users\Damla\Desktop\TEZ\yonetim_sistemi(Son revize)19.02.2019\yonetim_sistemi\bin\Debug\yonetim_sistemi.application
+C:\Users\Damla\Desktop\TEZ\yonetim_sistemi(Son revize)19.02.2019\yonetim_sistemi\bin\Debug\yonetim_sistemi.exe
+C:\Users\Damla\Desktop\TEZ\yonetim_sistemi(Son revize)19.02.2019\yonetim_sistemi\bin\Debug\yonetim_sistemi.pdb
+C:\Users\Damla\Desktop\TEZ\yonetim_sistemi(Son revize)19.02.2019\yonetim_sistemi\bin\Debug\PagedList.dll
+C:\Users\Damla\Desktop\TEZ\yonetim_sistemi(Son revize)19.02.2019\yonetim_sistemi\bin\Debug\SimpleDataGridViewPaging.dll
+C:\Users\Damla\Desktop\TEZ\yonetim_sistemi(Son revize)19.02.2019\yonetim_sistemi\bin\Debug\PagedList.xml
+C:\Users\Damla\Desktop\TEZ\yonetim_sistemi(Son revize)19.02.2019\yonetim_sistemi\obj\Debug\Interop.LCC11.dll
+C:\Users\Damla\Desktop\TEZ\yonetim_sistemi(Son revize)19.02.2019\yonetim_sistemi\obj\Debug\Interop.otkloadr.dll
+C:\Users\Damla\Desktop\TEZ\yonetim_sistemi(Son revize)19.02.2019\yonetim_sistemi\obj\Debug\yonetim_sistemi.csproj.ResolveComReference.cache
+C:\Users\Damla\Desktop\TEZ\yonetim_sistemi(Son revize)19.02.2019\yonetim_sistemi\obj\Debug\yonetim_sistemi.anaSayfa.resources
+C:\Users\Damla\Desktop\TEZ\yonetim_sistemi(Son revize)19.02.2019\yonetim_sistemi\obj\Debug\yonetim_sistemi.dovizKurlari.resources
+C:\Users\Damla\Desktop\TEZ\yonetim_sistemi(Son revize)19.02.2019\yonetim_sistemi\obj\Debug\yonetim_sistemi.duyurulardetayi.resources
+C:\Users\Damla\Desktop\TEZ\yonetim_sistemi(Son revize)19.02.2019\yonetim_sistemi\obj\Debug\yonetim_sistemi.LaboratuvarModulu.detayNumune.resources
+C:\Users\Damla\Desktop\TEZ\yonetim_sistemi(Son revize)19.02.2019\yonetim_sistemi\obj\Debug\yonetim_sistemi.LaboratuvarModulu.devam_eden_testler.resources
+C:\Users\Damla\Desktop\TEZ\yonetim_sistemi(Son revize)19.02.2019\yonetim_sistemi\obj\Debug\yonetim_sistemi.LaboratuvarModulu.laboratuvarAnaSayfa.resources
+C:\Users\Damla\Desktop\TEZ\yonetim_sistemi(Son revize)19.02.2019\yonetim_sistemi\obj\Debug\yonetim_sistemi.LaboratuvarModulu.musteriTakip.resources
+C:\Users\Damla\Desktop\TEZ\yonetim_sistemi(Son revize)19.02.2019\yonetim_sistemi\obj\Debug\yonetim_sistemi.LaboratuvarModulu.numuneKayit.resources
+C:\Users\Damla\Desktop\TEZ\yonetim_sistemi(Son revize)19.02.2019\yonetim_sistemi\obj\Debug\yonetim_sistemi.LaboratuvarModulu.numuneTakip.resources
+C:\Users\Damla\Desktop\TEZ\yonetim_sistemi(Son revize)19.02.2019\yonetim_sistemi\obj\Debug\yonetim_sistemi.LaboratuvarModulu.onay_bekleyen_testler.resources
+C:\Users\Damla\Desktop\TEZ\yonetim_sistemi(Son revize)19.02.2019\yonetim_sistemi\obj\Debug\yonetim_sistemi.LaboratuvarModulu.testi_bitenler.resources
+C:\Users\Damla\Desktop\TEZ\yonetim_sistemi(Son revize)19.02.2019\yonetim_sistemi\obj\Debug\yonetim_sistemi.LaboratuvarModulu.test_baslangic_tarihi.resources
+C:\Users\Damla\Desktop\TEZ\yonetim_sistemi(Son revize)19.02.2019\yonetim_sistemi\obj\Debug\yonetim_sistemi.LaboratuvarModulu.test_bitis_tarihi.resources
+C:\Users\Damla\Desktop\TEZ\yonetim_sistemi(Son revize)19.02.2019\yonetim_sistemi\obj\Debug\yonetim_sistemi.login.resources
+C:\Users\Damla\Desktop\TEZ\yonetim_sistemi(Son revize)19.02.2019\yonetim_sistemi\obj\Debug\yonetim_sistemi.notdetay.resources
+C:\Users\Damla\Desktop\TEZ\yonetim_sistemi(Son revize)19.02.2019\yonetim_sistemi\obj\Debug\yonetim_sistemi.Properties.Resources.resources
+C:\Users\Damla\Desktop\TEZ\yonetim_sistemi(Son revize)19.02.2019\yonetim_sistemi\obj\Debug\yonetim_sistemi.yeniDuyuru.resources
+C:\Users\Damla\Desktop\TEZ\yonetim_sistemi(Son revize)19.02.2019\yonetim_sistemi\obj\Debug\yonetim_sistemi.yeniNot.resources
+C:\Users\Damla\Desktop\TEZ\yonetim_sistemi(Son revize)19.02.2019\yonetim_sistemi\obj\Debug\yonetim_sistemi.YoneticiModulu.yeniKullaniciKayit.resources
+C:\Users\Damla\Desktop\TEZ\yonetim_sistemi(Son revize)19.02.2019\yonetim_sistemi\obj\Debug\yonetim_sistemi.csproj.GenerateResource.cache
+C:\Users\Damla\Desktop\TEZ\yonetim_sistemi(Son revize)19.02.2019\yonetim_sistemi\obj\Debug\yonetim_sistemi.csproj.CoreCompileInputs.cache
+C:\Users\Damla\Desktop\TEZ\yonetim_sistemi(Son revize)19.02.2019\yonetim_sistemi\obj\Debug\yonetim_sistemi.exe.manifest
+C:\Users\Damla\Desktop\TEZ\yonetim_sistemi(Son revize)19.02.2019\yonetim_sistemi\obj\Debug\yonetim_sistemi.application
+C:\Users\Damla\Desktop\TEZ\yonetim_sistemi(Son revize)19.02.2019\yonetim_sistemi\obj\Debug\yonetim_sistemi.csproj.CopyComplete
+C:\Users\Damla\Desktop\TEZ\yonetim_sistemi(Son revize)19.02.2019\yonetim_sistemi\obj\Debug\yonetim_sistemi.satisSayfasi.resources
+C:\Users\Damla\Desktop\DAMLA KAYA BİTİRME PROJESİ\DAMLA KAYA-142114024-BİTİRME PROJESİ\yonetim_sistemi\bin\Debug\yonetim_sistemi.exe.config
+C:\Users\Damla\Desktop\DAMLA KAYA BİTİRME PROJESİ\DAMLA KAYA-142114024-BİTİRME PROJESİ\yonetim_sistemi\bin\Debug\yonetim_sistemi.exe.manifest
+C:\Users\Damla\Desktop\DAMLA KAYA BİTİRME PROJESİ\DAMLA KAYA-142114024-BİTİRME PROJESİ\yonetim_sistemi\bin\Debug\yonetim_sistemi.application
+C:\Users\Damla\Desktop\DAMLA KAYA BİTİRME PROJESİ\DAMLA KAYA-142114024-BİTİRME PROJESİ\yonetim_sistemi\bin\Debug\yonetim_sistemi.exe
+C:\Users\Damla\Desktop\DAMLA KAYA BİTİRME PROJESİ\DAMLA KAYA-142114024-BİTİRME PROJESİ\yonetim_sistemi\bin\Debug\yonetim_sistemi.pdb
+C:\Users\Damla\Desktop\DAMLA KAYA BİTİRME PROJESİ\DAMLA KAYA-142114024-BİTİRME PROJESİ\yonetim_sistemi\bin\Debug\PagedList.dll
+C:\Users\Damla\Desktop\DAMLA KAYA BİTİRME PROJESİ\DAMLA KAYA-142114024-BİTİRME PROJESİ\yonetim_sistemi\bin\Debug\SimpleDataGridViewPaging.dll
+C:\Users\Damla\Desktop\DAMLA KAYA BİTİRME PROJESİ\DAMLA KAYA-142114024-BİTİRME PROJESİ\yonetim_sistemi\bin\Debug\PagedList.xml
+C:\Users\Damla\Desktop\DAMLA KAYA BİTİRME PROJESİ\DAMLA KAYA-142114024-BİTİRME PROJESİ\yonetim_sistemi\obj\Debug\yonetim_sistemi.csprojAssemblyReference.cache
+C:\Users\Damla\Desktop\DAMLA KAYA BİTİRME PROJESİ\DAMLA KAYA-142114024-BİTİRME PROJESİ\yonetim_sistemi\obj\Debug\Interop.LCC11.dll
+C:\Users\Damla\Desktop\DAMLA KAYA BİTİRME PROJESİ\DAMLA KAYA-142114024-BİTİRME PROJESİ\yonetim_sistemi\obj\Debug\Interop.otkloadr.dll
+C:\Users\Damla\Desktop\DAMLA KAYA BİTİRME PROJESİ\DAMLA KAYA-142114024-BİTİRME PROJESİ\yonetim_sistemi\obj\Debug\yonetim_sistemi.csproj.ResolveComReference.cache
+C:\Users\Damla\Desktop\DAMLA KAYA BİTİRME PROJESİ\DAMLA KAYA-142114024-BİTİRME PROJESİ\yonetim_sistemi\obj\Debug\yonetim_sistemi.anaSayfa.resources
+C:\Users\Damla\Desktop\DAMLA KAYA BİTİRME PROJESİ\DAMLA KAYA-142114024-BİTİRME PROJESİ\yonetim_sistemi\obj\Debug\yonetim_sistemi.dovizKurlari.resources
+C:\Users\Damla\Desktop\DAMLA KAYA BİTİRME PROJESİ\DAMLA KAYA-142114024-BİTİRME PROJESİ\yonetim_sistemi\obj\Debug\yonetim_sistemi.duyurulardetayi.resources
+C:\Users\Damla\Desktop\DAMLA KAYA BİTİRME PROJESİ\DAMLA KAYA-142114024-BİTİRME PROJESİ\yonetim_sistemi\obj\Debug\yonetim_sistemi.LaboratuvarModulu.detayNumune.resources
+C:\Users\Damla\Desktop\DAMLA KAYA BİTİRME PROJESİ\DAMLA KAYA-142114024-BİTİRME PROJESİ\yonetim_sistemi\obj\Debug\yonetim_sistemi.LaboratuvarModulu.devam_eden_testler.resources
+C:\Users\Damla\Desktop\DAMLA KAYA BİTİRME PROJESİ\DAMLA KAYA-142114024-BİTİRME PROJESİ\yonetim_sistemi\obj\Debug\yonetim_sistemi.LaboratuvarModulu.laboratuvarAnaSayfa.resources
+C:\Users\Damla\Desktop\DAMLA KAYA BİTİRME PROJESİ\DAMLA KAYA-142114024-BİTİRME PROJESİ\yonetim_sistemi\obj\Debug\yonetim_sistemi.LaboratuvarModulu.musteriTakip.resources
+C:\Users\Damla\Desktop\DAMLA KAYA BİTİRME PROJESİ\DAMLA KAYA-142114024-BİTİRME PROJESİ\yonetim_sistemi\obj\Debug\yonetim_sistemi.LaboratuvarModulu.numuneKayit.resources
+C:\Users\Damla\Desktop\DAMLA KAYA BİTİRME PROJESİ\DAMLA KAYA-142114024-BİTİRME PROJESİ\yonetim_sistemi\obj\Debug\yonetim_sistemi.LaboratuvarModulu.numuneTakip.resources
+C:\Users\Damla\Desktop\DAMLA KAYA BİTİRME PROJESİ\DAMLA KAYA-142114024-BİTİRME PROJESİ\yonetim_sistemi\obj\Debug\yonetim_sistemi.LaboratuvarModulu.onay_bekleyen_testler.resources
+C:\Users\Damla\Desktop\DAMLA KAYA BİTİRME PROJESİ\DAMLA KAYA-142114024-BİTİRME PROJESİ\yonetim_sistemi\obj\Debug\yonetim_sistemi.LaboratuvarModulu.testi_bitenler.resources
+C:\Users\Damla\Desktop\DAMLA KAYA BİTİRME PROJESİ\DAMLA KAYA-142114024-BİTİRME PROJESİ\yonetim_sistemi\obj\Debug\yonetim_sistemi.LaboratuvarModulu.test_baslangic_tarihi.resources
+C:\Users\Damla\Desktop\DAMLA KAYA BİTİRME PROJESİ\DAMLA KAYA-142114024-BİTİRME PROJESİ\yonetim_sistemi\obj\Debug\yonetim_sistemi.LaboratuvarModulu.test_bitis_tarihi.resources
+C:\Users\Damla\Desktop\DAMLA KAYA BİTİRME PROJESİ\DAMLA KAYA-142114024-BİTİRME PROJESİ\yonetim_sistemi\obj\Debug\yonetim_sistemi.login.resources
+C:\Users\Damla\Desktop\DAMLA KAYA BİTİRME PROJESİ\DAMLA KAYA-142114024-BİTİRME PROJESİ\yonetim_sistemi\obj\Debug\yonetim_sistemi.notdetay.resources
+C:\Users\Damla\Desktop\DAMLA KAYA BİTİRME PROJESİ\DAMLA KAYA-142114024-BİTİRME PROJESİ\yonetim_sistemi\obj\Debug\yonetim_sistemi.Properties.Resources.resources
+C:\Users\Damla\Desktop\DAMLA KAYA BİTİRME PROJESİ\DAMLA KAYA-142114024-BİTİRME PROJESİ\yonetim_sistemi\obj\Debug\yonetim_sistemi.satisSayfasi.resources
+C:\Users\Damla\Desktop\DAMLA KAYA BİTİRME PROJESİ\DAMLA KAYA-142114024-BİTİRME PROJESİ\yonetim_sistemi\obj\Debug\yonetim_sistemi.yeniDuyuru.resources
+C:\Users\Damla\Desktop\DAMLA KAYA BİTİRME PROJESİ\DAMLA KAYA-142114024-BİTİRME PROJESİ\yonetim_sistemi\obj\Debug\yonetim_sistemi.yeniNot.resources
+C:\Users\Damla\Desktop\DAMLA KAYA BİTİRME PROJESİ\DAMLA KAYA-142114024-BİTİRME PROJESİ\yonetim_sistemi\obj\Debug\yonetim_sistemi.YoneticiModulu.yeniKullaniciKayit.resources
+C:\Users\Damla\Desktop\DAMLA KAYA BİTİRME PROJESİ\DAMLA KAYA-142114024-BİTİRME PROJESİ\yonetim_sistemi\obj\Debug\yonetim_sistemi.csproj.GenerateResource.cache
+C:\Users\Damla\Desktop\DAMLA KAYA BİTİRME PROJESİ\DAMLA KAYA-142114024-BİTİRME PROJESİ\yonetim_sistemi\obj\Debug\yonetim_sistemi.csproj.CoreCompileInputs.cache
+C:\Users\Damla\Desktop\DAMLA KAYA BİTİRME PROJESİ\DAMLA KAYA-142114024-BİTİRME PROJESİ\yonetim_sistemi\obj\Debug\yonetim_sistemi.exe.manifest
+C:\Users\Damla\Desktop\DAMLA KAYA BİTİRME PROJESİ\DAMLA KAYA-142114024-BİTİRME PROJESİ\yonetim_sistemi\obj\Debug\yonetim_sistemi.application
+C:\Users\Damla\Desktop\DAMLA KAYA BİTİRME PROJESİ\DAMLA KAYA-142114024-BİTİRME PROJESİ\yonetim_sistemi\obj\Debug\yonetim_sistemi.csproj.CopyComplete
+C:\Users\Damla\Desktop\DAMLA KAYA BİTİRME PROJESİ\DAMLA KAYA-142114024-BİTİRME PROJESİ\yonetim_sistemi\obj\Debug\yonetim_sistemi.exe
+C:\Users\Damla\Desktop\DAMLA KAYA BİTİRME PROJESİ\DAMLA KAYA-142114024-BİTİRME PROJESİ\yonetim_sistemi\obj\Debug\yonetim_sistemi.pdb
